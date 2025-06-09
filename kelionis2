@@ -1,0 +1,76 @@
+inde.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bienvenue sur Kelionis 2</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 3em;
+    }
+    p {
+      color: #34495e;
+      font-size: 1.2em;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur Kelionis 2</h1>
+  <p>Ce site a été déployé avec GitHub Pages.<br>Merci à Kelyonis ✨</p>
+
+  <footer>
+    &copy; 2025 - Kelionis Project
+  </footer>
+</body>
+</html>
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+h1 {
+  color: #2c3e50;
+  font-size: 3em;
+}
+p {
+  color: #34495e;
+  font-size: 1.2em;
+}
+footer {
+  margin-top: 50px;
+  font-size: 0.9em;
+  color: #888;
+}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bienvenue sur Kelionis 2</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bienvenue sur Kelionis 2</h1>
+  <p>Ce site a été déployé avec GitHub Pages.<br>Merci à Kelyonis ✨</p>
+
+  <footer>
+    &copy; 2025 - Kelionis Project
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
